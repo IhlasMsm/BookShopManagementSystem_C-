@@ -1,0 +1,6 @@
+﻿  BookShopSys.cpp
+F:\ICBT\BookShopSys\BookShopSys\BookShopSys.cpp(93,13): error C3861: 'strcasecmp': identifier not found
+F:\ICBT\BookShopSys\BookShopSys\BookShopSys.cpp(121,13): error C3861: 'strcasecmp': identifier not found
+F:\ICBT\BookShopSys\BookShopSys\BookShopSys.cpp(154,13): error C3861: 'strcasecmp': identifier not found
+F:\ICBT\BookShopSys\BookShopSys\BookShopSys.cpp(203,21): error C3861: 'strcasecmp': identifier not found
+F:\ICBT\BookShopSys\BookShopSys\BookShopSys.cpp(228,21): error C3861: 'strcasecmp': identifier not found
